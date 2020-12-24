@@ -14,7 +14,7 @@ import collections
 groups = []
 projects = []
 
-BASE_URL = 'http://gitlab.os.adc.com/'
+BASE_URL = 'http://gitlab.com/'
 API_VERSION = 'api/v4/'
 PRIVATE_TOKEN = 'xxxxxxxxxxx'
 BASE_PATH = 'e:\\code\\'
